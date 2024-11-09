@@ -1,0 +1,104 @@
+<!--
+/**
+ * file: unlisted_web_page_karbytes_first_onion_web_page.html
+ * type: Hyper-Text-Markup-Language
+ * author: karbytes
+ * date: 01_OCTOBER_2024
+ * license: PUBLIC_DOMAIN
+ */
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KARBYTES_FIRST_ONION_WEB_PAGE</title>
+    <!-- 
+        /**
+         * The linked Cascading-Style-Sheet file named karbytes_aesthetic.css 
+         * defines how this web page (which is named unlisted_web_page_karbytes_first_onion_web_page.html) 
+         * appears when this web page is (re)loaded by the web browser. 
+         */
+     -->
+    <link rel="stylesheet" href="karbytes_aesthetic.css">
+    <!-- 
+        /**
+         * The link to the external JavaScript file enables the Monte Carlo simulation feature of this web page.
+         */
+     -->
+    <script src="pi_approximation.js"></script>
+    <style>
+        div {
+            border-color: #ff00ff;
+            border-width: 2px;
+            border-style: solid;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+        #cartesian_plane {
+            background: #ffffff;
+            border-width: 0px;
+        }
+        #greenish_gray_area {
+            background: #bdd3b6;
+            border-color: #00ff00;
+            color: #000000;
+        }
+    </style>
+</head>
+<body onload="initialize_application()">
+	<hr>
+	<p><strong>KARBYTES_FIRST_ONION_WEB_PAGE</strong></p>
+	<hr>
+	<div id="greenish_gray_area">
+	<p><strong>Hello, and welcome to karbytes' first .onion web page.</strong></p>
+    <p style="background:#00ffff">As of 01_OCTOBER_2024 (and only while karbytes' local machine is turned on and connected to the Internet), this .onion web page is located at the following dark web address:</p>
+    <p><a style="background: #000000;color: #00ffff" href="http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/" target="_blank" rel="noopener">http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/</a></p>
+    <p>* * *</p>
+	<p><em>For details on how this web page came to be, visit the surface web page at the following Uniform Resource Locator:</em></p>
+    <p><a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/</a></p>
+    <p>* * *</p>
+    <p>karbytes' primary websites (which contain <u>all</u> of the content defined as <strong>karbytes</strong> (and which is all comprised of surface-web-hosted files)) are located at the following three Uniform Resource Locators:</p>
+    <p><a style="background: #000000;color: #00ff00" href="https://karlinaobject.wordpress.com/" target="_blank" rel="noopener">https://karlinaobject.wordpress.com/</a></p>
+    <p><a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/</a></p>
+    <p><a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/" target="_blank" rel="noopener">https://github.com/karlinarayberinger/</a></p>
+    <p>* * *</p>
+    <p style="background:#ffff00">The following JavaScript-based single web page application is a software application (for approximating Pi using a Monte Carlo random dart-throwing simulation) whose constituent source code files and documentation on how to implement those source code files (on one's own local machine as a functional app) is available on the following (surface web) tutorial web page:</p>
+    <p><a style="background: #000000;color: #00ff00" href="https://karlinaobject.wordpress.com/pi_approximation/" target="_blank" rel="noopener">https://karlinaobject.wordpress.com/pi_approximation/</a></p>
+	</div>
+	<hr>
+
+    <!-- interactive software application which has animation features -->
+    <h1>PI_APPROXIMATION</h1>
+    <p>
+        This single page web application implements a 3600 second Monte Carlo dart 
+        throwing simulation to approximate the irrational number Pi by dividing the 
+        number of darts which land within 200 pixels of the center of a square canvas 
+        (whose side length is 400 pixels) by the total number of darts which are 
+        plotted on that canvas. One pixel-sized dart is plotted at a random location 
+        onto the square canvas per second of the 3600 second timer interval. Darts which 
+        are plotted within 200 pixels of the center of the canvas are colored 
+        <span style="background:#000000;color:#ff0000">RED</span>. 
+        Darts which are plotted farther than 200 pixels away from the center of the 
+        canvas are colored <span style="background:#000000;color:#0000ff">BLUE</span>.
+    </p>
+    <p class="console">pi = (circle.circumference / circle.diameter)</p>
+    <p class="console">pi_approximation = (4 * (red_pixel_count / (red_pixel_count + blue_pixel_count)))</p>
+    <p><input type="button" id="start_button" value="START" onclick="start_monte_carlo_simulation()"></p>
+    <p><input type="button" id="reset_button" value="RESET" onclick="initialize_application()"></p>
+    <canvas id="cartesian_plane" width="400" height="400"></canvas>
+    <div id="output">
+        <p>seconds_remaining: <span id="seconds_remaining_span">???</span></p>
+        <p>red_pixel_count: <span id="red_pixel_count_span">???</span></p>
+        <p>blue_pixel_count: <span id="blue_pixel_count_span">???</span></p>
+        <p>pi_approximation: <span id="pi_approximation_span">???</span></p>
+    </div>
+    <div id="timestamped_events_log" class="console"></div>
+    <!-- end of animation application interface -->
+
+    <hr>
+    <p>This web page was last updated on 01_OCTOBER_2024. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
+    <hr>
+</body>
+</html>
