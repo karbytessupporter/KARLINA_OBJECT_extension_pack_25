@@ -1,7 +1,7 @@
 /** 
  * file: karbytes_for_life_blog_updates.txt
  * type: plain-text 
- * date: 08_NOVEMBER_2024 
+ * date: 09_NOVEMBER_2024 
  * author: karbytes 
  * license: PUBLIC_DOMAIN 
  */
@@ -305,3 +305,7 @@ karbytes updated (and apparently finalized) the website section named raw_github
 karbytes updated the website section named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:01PM Pacific Standard Time on 08_NOVEMBER_2024.
 
 karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 9:01PM Pacific Standard Time on 08_NOVEMBER_2024.
+
+karbytes updated the website section named KARBYTES_CODE_CONTINUES on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:29AM Pacific Standard Time on 09_NOVEMBER_2024.
+
+karbytes updated the home page of the website named Karbytes For Life Blog dot WordPress dot Com at approximately 6:29AM Pacific Standard Time on 09_NOVEMBER_2024.
