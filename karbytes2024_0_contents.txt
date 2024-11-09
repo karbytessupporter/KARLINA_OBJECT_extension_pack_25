@@ -22,61 +22,61 @@ file_6: karbytes_basement_12-main.zip // 7.51 megabytes
 
 file_7: karbytes_basement_6-main.zip // 1.47 megabytes
 
-file_8: KARLINA_OBJECT_extension_pack_25-main_[undfined_day].zip // 9.83 megabytes
+file_8: karbytes_basement_n-main.zip // 34.81 megabytes
 
-file_9: karbytes_basement_n-main.zip // 34.81 megabytes
+file_9: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.92 megabytes
 
-file_10: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.92 megabytes
+file_10: KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.91 megabytes
 
-file_11: KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.91 megabytes
+file_11: KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.81 megabytes
 
-file_12: KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.81 megabytes
+file_12: KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.62 megabytes
 
-file_13: KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.62 megabytes
+file_13: KARBYTES_BRAND_IMAGES_2021-main.zip // 9.77 megabytes
 
-file_14: KARBYTES_BRAND_IMAGES_2021-main.zip // 9.77 megabytes
+file_14: KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.17 megabytes
 
-file_15: KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.17 megabytes
+file_15: KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.15 megabytes
 
-file_16: KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.15 megabytes
+file_16: karbytes_basement_0-main.zip // 149.14 megabytes
 
-file_17: karbytes_basement_0-main.zip // 149.14 megabytes
+file_17: KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.48 megabytes
 
-file_18: KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.48 megabytes
+file_18: KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.81 megabytes
 
-file_19: KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.81 megabytes
+file_19: KARLINA_OBJECT_extension_pack_6-main.zip // 24.04 megabytes
 
-file_20: KARLINA_OBJECT_extension_pack_6-main.zip // 24.04 megabytes
+file_20: KARLINA_OBJECT_extension_pack_22-main.zip // 558.19 megabytes
 
-file_21: KARLINA_OBJECT_extension_pack_22-main.zip // 558.19 megabytes
+file_21: KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.69 megabytes
 
-file_22: KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.69 megabytes
+file_22: KARLINA_OBJECT_extension_pack_20-main.zip // 108.04 megabytes
 
-file_23: KARLINA_OBJECT_extension_pack_20-main.zip // 108.04 megabytes
+file_23: KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.36 megabytes
 
-file_24: KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.36 megabytes
+file_24: KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.54 megabytes
 
-file_25: KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.54 megabytes
+file_25: KARLINA_OBJECT_extension_pack_8-main.zip // 99.66 megabytes
 
-file_26: KARLINA_OBJECT_extension_pack_8-main.zip // 99.66 megabytes
+file_26: KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.76 megabytes
 
-file_27: KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.76 megabytes
+file_27: KARLINA_OBJECT_extension_pack_17-main.zip // 725.00 megabytes
 
-file_28: KARLINA_OBJECT_extension_pack_17-main.zip // 725.00 megabytes
+file_28: KARLINA_OBJECT_extension_pack_13-main.zip // 11.93 megabytes
 
-file_29: KARLINA_OBJECT_extension_pack_13-main.zip // 11.93 megabytes
+file_29: karbytes_basement_2-main.zip // 65.78 megabytes
 
-file_30: karbytes_basement_2-main.zip // 65.78 megabytes
+file_30: KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.94 megabytes
 
-file_31: KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.94 megabytes
+file_31: karbytes_basement_3-main.zip // 2.53 megabytes
 
-file_32: karbytes_basement_3-main.zip // 2.53 megabytes
+file_32: KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.62 megabytes
 
-file_33: KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.62 megabytes
+file_33: KARLINA_OBJECT_extension_pack_14-main.zip // 6.14 megabytes
 
-file_34: KARLINA_OBJECT_extension_pack_14-main.zip // 6.14 megabytes
+file_34: KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.86 megabytes
 
-file_35: KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.86 megabytes
+file_35: KARLINA_OBJECT_extension_pack_25-main_[undefined_day].zip // 11.06 megabytes
 
 file_36: karbytes_basement_10-main.zip // 16.04 megabytes
 
@@ -240,6 +240,6 @@ file_114: KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.35 megabytes
 
 Total number of files: 115
 
-Total folder size: 10901.22 megabytes
+Total folder size: 10902.45 megabytes
 
 --------------------------------
