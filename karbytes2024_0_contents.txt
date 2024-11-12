@@ -76,7 +76,7 @@ file_33: KARLINA_OBJECT_extension_pack_14-main.zip // 6.14 megabytes
 
 file_34: KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.86 megabytes
 
-file_35: KARLINA_OBJECT_extension_pack_25-main_[undefined_day].zip // 11.06 megabytes
+file_35: KARLINA_OBJECT_extension_pack_25-main_[undefined_day].zip // 11.09 megabytes
 
 file_36: karbytes_basement_10-main.zip // 16.04 megabytes
 
@@ -92,7 +92,7 @@ file_41: KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.69 megabytes
 
 file_42: KARLINA_OBJECT_extension_pack_10-main.zip // 258.38 megabytes
 
-file_43: KARLINA_OBJECT-main.zip // 116.41 megabytes
+file_43: KARLINA_OBJECT-main.zip // 162.66 megabytes
 
 file_44: karbytes_beginner_bytes_computer_science_2010_to_2015-main.zip // 331.49 megabytes
 
@@ -240,6 +240,6 @@ file_114: KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.35 megabytes
 
 Total number of files: 115
 
-Total folder size: 10902.45 megabytes
+Total folder size: 10948.74 megabytes
 
 --------------------------------
