@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_17november2024.txt
  * type: plain-text
- * date: 16_NOVEMBER_2024
+ * date: 17_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -18,4 +18,4 @@ B: “0 = 1”.
 
 // left-hand variable is set to right-hand value.
 
-// left-hand variable (at least temporally) represents the right-hand quantity. 
+// left-hand variable (at least temporally) represents the right-hand integer. 
