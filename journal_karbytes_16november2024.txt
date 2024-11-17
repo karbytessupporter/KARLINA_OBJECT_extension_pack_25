@@ -1,27 +1,31 @@
-t
+/**
+ * file: journal_karbytes_16november2024.txt
+ * type: plain-text
+ * date: 16_NOVEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-// journal_karbytes_16november2024.txt
+After conducting approximately three years of intensive research on the subject of “free will” (i.e. volition), I have come to the conclusion that there is no such thing and that what “free will” really is is an illusion which abstracts out the subconscious (and hence involuntary) processes involved in every apparently voluntary (and hence consciously made) decision.
 
-After conducting approximately three years of intensive research on the subject of "free will" (i.e. volition), I have come to the conclusion that there is no such thing and that what "free will" really is is an illusion which abstracts out the subconscious (and hence involuntary) processes involved in every apparently voluntary (and hence consciously made) decision.
+One implication of such a conclusion is that every human being (and every other information processing agent) has the same degree of culpability in every universe: absolute zero. That is to say that skill is essentially luck (i.e. that you are “lucky” to have been forced by the universe you have lived in to acquire whatever skills and resources you have which made it possible for you to survive and thrive to the extent that you are instead of to an extent you would deem to be less ideal). Some people seem to be “blessed” with better circumstances than others. Hence, reality is not necessarily fair (i.e. equally idyllic according to every frame of reference).
 
-One implication of such a conclusion is that every human being (and every other information processing agent) has the same degree of culpability in every eveny in every universe: absolute zero. That is to say that skill is essentially luck (i.e. that you are "lucky" to have been forced by the universe you have lived in to acquire whatever skills and resources you have which made it possible for you to survive and thrive to the extent that you are instead of to an extent you would deem to be less ideal). Some people seem to be "blessed" with better circumstances than others. Hence, reality is not necessarily fair (i.e. equally idyllic according to every frame of reference).
+karbytes_0: “What am I supposed to do with this information?”
 
-karbytes_0: "What am I supposed to do with this information?"
+karbytes: “I am not sure what you will do with this information because, to me, your mind (or nervous system activity) is unknown to me.”
 
-karbytes: "I am not sure what you will do with this information because, to me, your mind (or nervous system activity) is unknown to me."
+karbytes_0: “I am asking because even I don’t know what to do with this information. Does anyone know literally everything?”
 
-karbytes_0: "I am asking because even I don't know what to do with this information. Does anyone know literally everything?"
+karbytes: “I have also wondered whether or not omniscience is actually possible. At this time, I doubt it is because any degree of knowing seems to preclude some kind of brain composed of matter and space which changes within some interval of time (and such that the matter, space, time, and energy comprising that interval are each finite in size). Otherwise (if such things are not finite in size) the respective information processing agent would presumably never reach the end of a computational process (and I assume such processes are necessary for the emergent property of knowledge to arise).”
 
-karbytes: "I have also wondered whether or not omniscience is actually possible. At this time, I doubt it is because any degree of knowing seems to preclude some kind of brain composed of matter and space which changes within some interval of time (and such that the matter, space, time, and energy comprising that interval are each finite in size). Otherwise (if such things are not finite in size) the respective information processing agent would presumably never reach the end of a computational process (and I assume such processes are necessary for the emergent property of knowledge to arise)."
+karbytes_0: “How does this information change anyone’s life in a way which is favorable to that person?”
 
-karbytes_0: "How does this information change anyone's life in a way which is favorable to that person?"
+karbytes: “I think such information has little if any practical value to anyone (but it does seem to justify not trying to make other people conform to one’s desires due to the fact that people will inevitably only do what the encompassing universe forces them to do).”
 
-karbytes: "I think such information has little if any practical value to anyone (but it does seem to justify not trying to make other people conform to one's desires due to the fact that people will inevitably only do what the encompassing universe forces them to do)."
+karbytes_0: “Why is that useful?”
 
-karbytes_0: "Why is that useful?"
+karbytes: “It’s justification not to fight with people (and fighting with people is often unpleasant, energy-consuming, time-consuming, physically dangerous, habit-forming, and suicide-inducing). Instead of fighting with people, a person (armed with the knowledge or assumption that ‘free will’ is merely an illusion at most) can more resolutely (than without such inoculation) allocate its finite resources towards processes which generate more satisfying outcomes for that person (than what would likely happen if that person allocated those resources towards fighting with people instead).”
 
-karbytes: "It's justification not to fight with people (and fighting with people is often unpleasant, energy-consuming, time-consuming, physically dangerous, habit-forming, and suicide-inducing). Instead of fighting with people, a person (armed with the knowledge or assumption that 'free will' is merely an illusion at most) can more resolutely (than without such inoculation) allocate its finite resources towards processes which generate more satisfying outcomes for that person (than what would likely happen if that person allocated those resources towards fighting with people instead)."
+karbytes_0: “I think you are spewing harmful propaganda designed to weaken my resolve to fight against my enemies and to get society to change in my favor. Fighting is the only way for some people to not get obliterated, maimed, robbed, or enslaved by their enemies.”
 
-karbytes_0: "I think you are spewing harmful propaganda designed to weaken my resolve to fight against my enemies and to get society to change in my favor. Fighting is the only way for some people to not get obliterated, maimed, robbed, or enslaved by their enemies."
-
-karbytes: "You are, to some extent, absolutely correct. Maybe such 'propaganda' will lead to some lazy people to not fight back against their oppressors (which is a form of natural selection). Those who are relatively easy to oppress will probably better resonate with the imperative to conserve their energy at all costs than those who are more difficult to oppress (because those who are harder to oppress literally have more options in their minds for how to proceed in any given moment whereas more oppressed minds imagine fewer options per instance and likely less satisfying options than their more self-sovereign counterparts)."
+karbytes: “You are, to some extent, absolutely correct. Maybe such ‘propaganda’ will lead to some lazy people to not fight back against their oppressors (which is a form of natural selection). Those who are relatively easy to oppress will probably better resonate with the imperative to conserve their energy at all costs than those who are more difficult to oppress (because those who are harder to oppress literally have more options in their minds for how to proceed in any given moment whereas more oppressed minds imagine fewer options per instance and likely less satisfying options than their more self-sovereign counterparts).” 
