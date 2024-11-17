@@ -1,0 +1,18 @@
+t
+
+// SEMANTICS.txt
+
+A: "0 = 0". 
+
+// left-hand value is identical to right-hand value.
+
+// left-hand value and right-hand value represent the same unique integer.
+
+B: "0 = 1". 
+
+// left-hand variable is set to right-hand value.
+
+// left-hand variable (at least temporally) represents the right-hand quantity.
+
+
+
