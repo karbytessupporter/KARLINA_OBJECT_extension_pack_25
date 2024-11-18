@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 16_NOVEMBER_2024
+ * date: 17_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -419,3 +419,9 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_16november2024/
 On 16_NOVEMBER_2024 at approximately 11:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_17november2024/
+
+* * *
+
+On 17_NOVEMBER_2024 at approximately 3:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+https://www.masstransitmag.com/rail/infrastructure/press-release/55243334/santa-clara-valley-transportation-authority-vta-santa-clara-vta-board-advances-major-cost-saving-concepts-for-bart-silicon-valley-phase-ii-extension-project
