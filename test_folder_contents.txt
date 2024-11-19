@@ -1,0 +1,43 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: test_folder
+
+file_0: egret_sunnyvale_california_01sep2024.jpg // 3.83 megabytes
+
+file_1: mountain_view_california_31august2024.mp4 // 22.51 megabytes
+
+file_2: baylands_fremont_california_30september2024.jpg // 3.23 megabytes
+
+file_3: baylands_sunnyvale_california_20july2024.mp4 // 22.26 megabytes
+
+Directory: test_folder/A
+
+file_4: mallard_slough_san_jose_california_18august2024.jpg // 2.59 megabytes
+
+file_5: alviso_slough_san_jose_california_09july2024.mp4 // 22.67 megabytes
+
+file_6: alviso_slough_san_jose_california_19august2024_p2.mp4 // 22.62 megabytes
+
+Directory: test_folder/A/B
+
+file_7: mallard_slough_san_jose_california_18august2024.jpg // 2.59 megabytes
+
+file_8: alviso_slough_san_jose_california_19august2024_p2.mp4 // 22.62 megabytes
+
+Directory: test_folder/C
+
+file_9: green_pond_water_sunnyvale_01sep2024_p1.jpg // 3.27 megabytes
+
+file_10: egret_sunnyvale_california_01sep2024.jpg // 3.83 megabytes
+
+--------------------------------
+
+Total number of files: 11
+
+Total folder size: 132.03 megabytes
+
+--------------------------------
