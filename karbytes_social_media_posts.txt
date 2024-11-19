@@ -449,3 +449,15 @@ video_channel_title: "Robinson Erhardt"
 video_release_date: 17_NOVEMBER_2024
 
 video_url: https://www.youtube.com/watch?v=adRdAkGiFSU
+
+* * *
+
+On 19_NOVEMBER_2024 at approximately 12:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "There’s No Wave Function? | Jacob Barandes"
+
+video_channel_title: "Theories of Everything with Curt Jaimungal"
+
+video_release_date: 13_NOVEMBER_2024
+
+video_url: https://www.youtube.com/watch?v=7oWip00iXbo
