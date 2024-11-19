@@ -1,0 +1,157 @@
+<hr>
+<p><strong>PRINT_FOLDER_CONTENTS</strong></p>
+<hr>
+<p><span style="background:#ffff00">The <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener">Python</a> program featured in this tutorial traverses every file inside of a folder, X, (including files which are located inside of each of X&#8217;s sub-folders (at all directory depths)) and prints the name of that file, the number of megabytes in that file, the index number of that file (with respect to how many files are in X), and, after each of those files is traversed, the total number of files in X and the total number of megabytes in X.</span></p>
+<p><span style="background:#00ffff">karbytes used the aforementioned Python program to calculate the <a style="background:#000000;color:#ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/karbytes2024_0_contents.txt" target="_blank" rel="noopener">(approximate) total size</a> of the entire collection of files named <a style="background:#000000;color:#ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">karbytes</a> (which is named <strong>karbytes2024_0</strong> and whose contents are described in detail on the following web page):</span></p>
+<p><a style="background:#000000;color:#00ff00" href="https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/</a></p>
+<p><em>To view hidden text inside each of the preformatted text boxes below, scroll horizontally.</em></p>
+<hr>
+<p><strong>SOFTWARE_APPLICATION_COMPONENTS</strong></p>
+<hr>
+<p>python_source_file: <a style="background:#000000;color:#00ff00" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/print_folder_contents.py" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/print_folder_contents.py</a></p>
+<p>plain_text_file: <a style="background:#000000;color:#ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/test_folder_contents.txt" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/test_folder_contents.txt</a></p>
+<hr>
+<p><strong>PROGRAM_INTERPRETATION_AND_EXECUTION</strong></p>
+<hr>
+<p>STEP_0: Copy and paste the Python <a style="background:#000000;color:#00ff00" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/print_folder_contents.py" target="_blank" rel="noopener">source code</a> into a new text editor document and save that document as the following file name:</p>
+<pre>print_folder_contents.py</pre>
+<p>STEP_1: Open a <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Unix" target="_blank" rel="noopener">Unix</a> command line terminal application and set the current directory to wherever the Python program file is located on the local machine (e.g. Desktop).</p>
+<pre>cd Desktop</pre>
+<p>STEP_2: Run the program by entering the following command:</p>
+<pre>python3 print_folder_contents.py</pre>
+<p>STEP_3: If the program interpretation command does not work, then use the following commands (in top-down order) to install the Python interpreter:</p>
+<pre>sudo apt update</pre>
+<pre>sudo apt install python3</pre>
+<p>STEP_4: Observe program results on the command line terminal and in the <a style="background:#000000;color:#ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/test_folder_contents.txt" target="_blank" rel="noopener">output file</a>.</p>
+<hr>
+<p><strong>PROGRAM_SOURCE_CODE</strong></p>
+<hr>
+<p>Note that the text inside of each of the the preformatted text boxes below appears on this web page (while rendered correctly by the <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Web_browser" target="_blank" rel="noopener">web browser</a>) to be identical to the content of that preformatted text box text&#8217;s respective <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener">plain-text</a> file or <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Source_code" target="_blank" rel="noopener">source code</a> output file (whose <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/URL" target="_blank" rel="noopener">Uniform Resource Locator</a> is displayed as the <strong style="background:#000000;color:#00ff00">green</strong> <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Hyperlink" target="_blank" rel="noopener">hyperlink</a> immediately above that preformatted text box (if that hyperlink points to a <strong>source code file</strong>) or whose Uniform Resource Locator is displayed as the <strong style="background:#000000;color:#ff9000">orange</strong> hyperlink immediately above that preformatted text box (if that hyperlink points to a <strong>plain-text file</strong>)).</p>
+<p><em>(Note that angle brackets which resemble <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener">HTML</a> tags (i.e. an &#8220;is less than&#8221; symbol (i.e. &#8216;&lt;&#8216;) followed by an &#8220;is greater than&#8221; symbol (i.e. &#8216;&gt;&#8217;)) displayed on this web page have been replaced (at the source code level of this web page) with the Unicode symbols <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Less-than_sign" target="_blank" rel="noopener">U+003C</a> (which is rendered by the web browser as &#8216;&lt;&#8216;) and <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Greater-than_sign" target="_blank" rel="noopener">U+003E</a> (which is rendered by the web browser as &#8216;&gt;&#8217;). That is because the <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/WordPress.com" target="_blank" rel="noopener">WordPress</a> web page editor or web browser interprets a plain-text version of an &#8220;is less than&#8221; symbol followed by an &#8220;is greater than&#8221; symbol as being an opening HTML tag (which means that the WordPress web page editor or web browser deletes or fails to display those (plain-text) inequality symbols and the content between those (plain-text) inequality symbols)).</em></p>
+<p>python_source_file: <a style="background:#000000;color:#00ff00" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/print_folder_contents.py" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/print_folder_contents.py</a></p>
+<hr>
+<pre>
+#########################################################################################
+# file: print_folder_contents.py
+# type: Python
+# date: 13_OCTOBER_2024
+# author: karbytes
+# license: PUBLIC_DOMAIN 
+#########################################################################################
+
+import os
+
+# Define the only function in this program.
+def list_files_in_folder(folder_path, output_file):
+    total_size = 0
+    file_count = 0
+    i = 0
+
+    # Define the output file handler.
+    with open(output_file, 'w') as f:
+
+        # Print a horizontal divider line to the command line terminal and to the output file.
+        print("\n\n--------------------------------")
+        f.write("--------------------------------")
+
+        # Print "This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder." to the command line terminal and to the output file.
+        print("\n\nThis Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.")
+        f.write("\n\nThis Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.")
+
+        # Print a horizontal divider line to the command line terminal and to the output file.
+        print("\n\n--------------------------------")
+        f.write("\n\n--------------------------------")
+
+        # Walk through the folder and its subfolders
+        for root, dirs, files in os.walk(folder_path):
+            f.write(f"\n\nDirectory: {root}")
+            print(f"\n\nDirectory: {root}")
+            for file in files:
+                file_path = os.path.join(root, file)
+                if os.path.isfile(file_path):  # Only process files, not subdirectories.
+                    file_size = os.path.getsize(file_path) / (1024 * 1024)  # Convert from bytes to megabytes.
+                    total_size += file_size
+                    file_count += 1
+                    f.write(f"\n\nfile_{i}: {file} // {file_size:.2f} megabytes")
+                    print(f"\n\nfile_{i}: {file} // {file_size:.2f} megabytes")
+                    i += 1
+        
+        # Print totals to the output file.
+        f.write("\n\n--------------------------------")
+        f.write(f"\n\nTotal number of files: {file_count}")
+        f.write(f"\n\nTotal folder size: {total_size:.2f} megabytes")
+        f.write("\n\n--------------------------------")
+
+        # Print totals to the command line terminal.
+        print("\n\n--------------------------------")
+        print(f"\n\nTotal number of files: {file_count}")
+        print(f"\n\nTotal folder size: {total_size:.2f} megabytes")
+        print("\n\n--------------------------------")
+
+    # Print a final message to the command line terminal.
+    print(f"\n\nResults have been written to '{output_file}'.")
+
+    # Print a horizontal divider line to the command line terminal.
+    print("\n\n--------------------------------\n\n")
+
+# Set the folder path to the folder you would like to analyze.
+folder_path = 'test_folder'  # Replace the value of folder_path with your actual folder path.
+output_file = 'test_folder_contents.txt'  # Replace the value of output_file with your preferred output text file path (which will overwrite that file if it exists or else generate it).
+
+# Execute the function which is defined in this program file.
+list_files_in_folder(folder_path, output_file)
+</pre>
+<hr>
+<p><strong>SAMPLE_PROGRAM_OUTPUT</strong></p>
+<hr>
+<p>The text in the preformatted text box below was generated by one use case of the Python program featured in this <a style="background:#ff9000;color:#000000" href="https://en.wikipedia.org/wiki/Computer_programming" target="_blank" rel="noopener">computer programming</a> tutorial web page.</p>
+<p>plain_text_file: <a style="background:#000000;color:#ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/test_folder_contents.txt" target="_blank" rel="noopener">https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/test_folder_contents.txt</a></p>
+<hr>
+<pre>
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: test_folder
+
+file_0: egret_sunnyvale_california_01sep2024.jpg // 3.83 megabytes
+
+file_1: mountain_view_california_31august2024.mp4 // 22.51 megabytes
+
+file_2: baylands_fremont_california_30september2024.jpg // 3.23 megabytes
+
+file_3: baylands_sunnyvale_california_20july2024.mp4 // 22.26 megabytes
+
+Directory: test_folder/A
+
+file_4: mallard_slough_san_jose_california_18august2024.jpg // 2.59 megabytes
+
+file_5: alviso_slough_san_jose_california_09july2024.mp4 // 22.67 megabytes
+
+file_6: alviso_slough_san_jose_california_19august2024_p2.mp4 // 22.62 megabytes
+
+Directory: test_folder/A/B
+
+file_7: mallard_slough_san_jose_california_18august2024.jpg // 2.59 megabytes
+
+file_8: alviso_slough_san_jose_california_19august2024_p2.mp4 // 22.62 megabytes
+
+Directory: test_folder/C
+
+file_9: green_pond_water_sunnyvale_01sep2024_p1.jpg // 3.27 megabytes
+
+file_10: egret_sunnyvale_california_01sep2024.jpg // 3.83 megabytes
+
+--------------------------------
+
+Total number of files: 11
+
+Total folder size: 132.03 megabytes
+
+--------------------------------
+</pre>
+<hr>
+<p>This web page was last updated on 07_NOVEMBER_2024. The content displayed on this web page is licensed as <a style="background:#000000;color:#ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
+<hr>
