@@ -1,0 +1,19 @@
+/**
+ * file: journal_karbytes_24november2024.txt
+ * type: plain-text
+ * date: 24_NOVEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "If you want to see whether or not karbytes is (most likely) to be online (and using its own personal Linux computer while connected to the World Wide Web via some Internet connection), use The Onion Router (i.e. Tor (or some other darknet browser)) to visit karbytes' first dark web page whose '.onion' file address (which is hosted on karbytes' Linux machine (and which is also acting as a darknet server to host the afforementioned '.onion' web page). That '.onion' web page address is: [http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/]"
+
+karbytes_1: "Where can I download the source code for that '.onion' web page?"
+
+karbytes_0: "The three source code files which comprise that dark web page (which includes within it a working JavaScript application which runs an hour-long Monte Carlo random pixel coloring process in order to visually depict how a value for Pi can be approximated with increasing accuracy as time progresses within that simulation towards infinity (where one 'random' pixel is plotted on a square canvas each second and is colored red if that pixel is inside of where the largest circle inscribed inside of that square would be located and colored blue if outside of those bounds yet within the square canvas bounds)) can be downloaded from the following raw GitHub file-hosting web pages:
+
+hyperlink_0: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/pi_approximation.js] 
+
+hyperlink_1: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/karbytes_aesthetic.css]
+
+hyperlink_2: [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/unlisted_web_page_karbytes_first_onion_web_page.html]"
