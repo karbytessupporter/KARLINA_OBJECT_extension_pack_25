@@ -1,0 +1,33 @@
+/**
+ * file: journal_karbytes_27november2024.txt
+ * type: plain-text
+ * date: 27_NOVEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+In order to prevent myself from feeling like a rape victim, hostage, or abuse victim of some type, I imagine that the voices I hear which are superimposed over whatever other sounds I am hearing and which appear to be voices only I hear (but which I suspect other people (especially people within some relatively close proximity to me) can hear at the same time I do) are entirely from police (which work in the United States of America or some other relatively modern country). 
+
+I also pretend that the house I (currently and legally) live in is "under threat" of being foreclosed (due to there not being enough income from either me, my family members, or other people who live at that residence to pay to keep living in or renting it out to other people to live in) and that my parents (and perhaps even brother) are dead or that I am no longer in contact with them so that I am (at least somewhat) mentally prepared to handle being homeless (and possibly even jobless) so that I have the means to take care of myself and possibly even hold down a (full-time or part-time) job. Along with that (rather morbid and pessimistic) fantasy is me imagining that the police ultimately own the house I legally live at.
+
+I do have a fear that people can hear my thoughts (especially if those people are in close physical proximity to me (and that other people are doing little other than surveil me in stealthy or un-stealthy ways)). I figured that the "best" (and "most sane") solution to this (mostly hypothetical) problem is me simply carrying on with my business as I have been and always do (provided that the trend of me seeming to have self-awareness and conscious control over my own behaviors and even thoughts and resulting emotions continues). That way, if the "thought police" are surveiling everyone inhabiting a building, the "thought police" can use biometric data (and other data) to determine whether or not any of those people are merely loitering, have malicious intentions, or are preoccupied with something non-malicious (though I cannot help but want to privately assume that merely loitering to an "excessive" or "exhibitionist" extent is a bit menacing or drama-mongering (unless that person is legitimately mentally ill or brain damaged rather than intentionally trying to manipulate people with obnoxious behavior)).
+
+I decided to implement a "new religion" approximately two weeks ago which amounts to little other than "let it rip". What that means is that, if one has a thought to think (however non-politically-correct or "unsafe"), one might as well think it and, if they feel genuinely compelled to, say the thought out loud (or write it down, et cetera). Such a religion is meant to be the "opposite" of trying to suppress one's own mental activity or urges to take a particular (remedial) action.
+
+So, this journal entry is an example of how I "let it rip" (with the fart sound effect mentally included, if the reader so chooses).
+
+Anyway, I would like to say that I still prefer to camp outside of my residence because of my paranoia and I basically do that nightly. There are plenty of decent camping spots which are relativelys safe and private which are within walking distance of where I legally live (and sometimes I go to Fremont to camp out in a more extravagent way). What I essentially use my house for is washing clothes, taking showers, using the Internet (from the comfort and relative privacy of my closet office) to work on karbytes intellectual property and other computer-dependent tasks, playing musical instruments, and organizing my material assets.
+
+* * *
+
+Yesterday near sunset, I took the following three digital photographs using my Android phone (and, while I was at the photography location, I uploaded the resulting three image files to the GitHub repository named KARLINA_OBJECT_extention_pack_25):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/northeast_castro_valley_california_26nov2024_p0.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/northeast_castro_valley_california_26nov2024_p1.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/northeast_castro_valley_california_26nov2024_p2.jpg
+
+Later than day, I also modified the web page named SOUND_TRACK_LOOP_COUNTER_VIDEO_FILES by including the following MP4 sound file as one of the four sound tracks to play with the web application named SOUND_TRACK_LOOP_COUNTER:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_25/main/guitar_karbytes_13july2024.mp4
