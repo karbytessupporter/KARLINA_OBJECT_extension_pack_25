@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 27_NOVEMBER_2024
+ * date: 28_NOVEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -571,3 +571,9 @@ https://www.sciencealert.com/voyager-1-just-activated-a-radio-thats-been-offline
 On 27_NOVEMBER_2024 at approximately 7:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_28november2024/
+
+* * *
+
+On 28_NOVEMBER_2024 at approximately 8:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/
