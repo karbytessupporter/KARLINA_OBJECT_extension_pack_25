@@ -1,0 +1,28 @@
+// chatgpt_karbytes_29november2024.txt
+
+Summarize the following web page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/
+ChatGPT said:
+ChatGPT
+
+The webpage titled "mdisc_karbytes2024_0" on KARBYTES_FOR_LIFE_BLOG details the creation of a comprehensive data collection named "karbytes2024_0." This collection encompasses the entirety of karbytes' public domain web-based intellectual property as of November 29, 2024. The data is organized into a single folder containing 115 zip files, totaling approximately 11.1 gigabytes. The author plans to produce at least three M-DISC copies of this collection to ensure its preservation. The webpage also provides insights into the methods used to calculate the total data size and discusses minor discrepancies between different measurement approaches. Additionally, it clarifies the relationship between the listed zip files and corresponding GitHub repositories, noting that some are associated with private repositories, which accounts for differences in the number of referenced directories.
+You said:
+According to that web page, what is the latest time that data collection will be finalized?
+ChatGPT said:
+ChatGPT
+
+According to the web page, the latest time the data collection "karbytes2024_0" will be finalized is 23:59:59 (11:59:59 PM) on November 30, 2024, based on the indicated timeline for completion.
+You said:
+Summarize the following web page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes_ultra_2024_edition_18/
+ChatGPT said:
+ChatGPT
+
+The webpage titled "mdisc_karbytes_ultra_2024_edition_18" on KARBYTES_FOR_LIFE_BLOG outlines the contents of an M-DISC labeled "karbytes_ultra_2024_edition_18," which includes the complete public domain web-based intellectual property of karbytes as of 11:59 PM Pacific Standard Time on November 29, 2024. The total data size is approximately 15.0 gigabytes, calculated by summing the sizes of multiple folders. The author notes that while M-DISCs have varying storage capacities—ranging from 4.7 GB to 100 GB—the goal is to store the entire collection on a single disc whenever possible. In cases where duplicate zip files exist, only the most recent versions are included to optimize storage. The author plans to create at least three M-DISC copies of this collection, as well as other specified editions, to ensure preservation.
+You said:
+It should be noted that the collection referred to as karbytes_2024_0 will be updated either one time or else zero times after 29_NOVEMBER_2024 and before 01_JANUARY_2025. Meanwhile, the collection referred to as karbytes_ultra_2024_edition_18 will be updated zero times after 29_NOVEMBER_2024.
+ChatGPT said:
+ChatGPT
+
+Got it! Here's the revised clarification:
+
+The karbytes_2024_0 collection may be updated once or not at all between 29 November 2024 and 1 January 2025. On the other hand, the karbytes_ultra_2024_edition_18 collection will remain unchanged after 29 November 2024.
+
